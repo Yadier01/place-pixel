@@ -1,3 +1,11 @@
+
+
+
+
+
+i was just trying out v 
+
+
 # SDL3 with V
 
 This starter opens a resizable SDL3 window and redraws it when its pixel size changes or when the window is exposed. Close the window to exit.
@@ -13,3 +21,5 @@ v run .
 ```
 
 To build an executable in the current directory, run `v .`.
+
+
